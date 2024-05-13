@@ -1,0 +1,12 @@
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 14px;
+}
+
+.app-header {
+    align-items: flex-end;
+    justify-content: space-between;
+}
